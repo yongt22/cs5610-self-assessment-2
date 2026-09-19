@@ -30,4 +30,4 @@ using `fetch()`.
 
 ## Deployment
 
-GitHub Pages: Coming soon
+GitHub Pages: (https://yongt22.github.io/cs5610-self-assessment-2/)
