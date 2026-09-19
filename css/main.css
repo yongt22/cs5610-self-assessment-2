@@ -1,0 +1,45 @@
+.host-photo {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.thumbnail-pic {
+  height: 250px;
+  object-fit: cover;
+}
+
+.amenity {
+  display: inline-block;
+  padding: 4px 8px;
+  margin: 3px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  font-size: 0.85rem;
+}
+
+.amenities {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.listing-price {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.host-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.amenities-button {
+  margin-top: 10px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
